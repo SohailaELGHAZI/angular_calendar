@@ -1,0 +1,21 @@
+{
+  "name": "angular-calendar",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "angular": "^12.0.0",
+    "rxjs": "^6.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0",
+    "angular-draggable-droppable": "^2.0.0",
+    "angular-resizable-element": "^1.0.0",
+    "calendar-utils": "^1.0.0",
+    "positioning": "^1.0.0",
+    "@scarf/scarf": "^1.0.0"
+  },
+  "ngPackage": {
+    "lib": {
+      "entryFile": "src/index.ts"
+    }
+  }
+}
